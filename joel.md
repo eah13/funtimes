@@ -1,3 +1,5 @@
 markdown text
 
 *italics*
+
+**bold**
